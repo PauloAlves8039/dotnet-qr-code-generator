@@ -26,6 +26,7 @@ This project was developed using the following technologies:
   - `C#`
   - `Docker`
   - `XUnit`
+  - `Moq`
   - `QRCoder library`
 
 - **Build and Deploy:**  
